@@ -4,7 +4,7 @@
 #Blog Link: http://jordan-wright.github.io/blog/2013/10/14/automated-social-engineering-recon-using-rapportive/
 #Code Link: https://github.com/jordan-wright/rapportive
 #This code requires the Requests library: https://pypi.python.org/pypi/requests/
-# Rapportive Code: https://github.com/SudhanshuC/Rapportive/blob/master/rapportive.py
+#Rapportive Code: https://github.com/SudhanshuC/Rapportive/blob/master/rapportive.py
 import requests
 target_email = raw_input("Enter Target Email: ")
 random_email="randomemail@gmail.com"
